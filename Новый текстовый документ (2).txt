@@ -1,5 +1,0 @@
-<div class="ps_content">
-							<img src="<?=$arResult["DETAIL_PICTURE"]["SRC"]?>" align="left" alt=""/> 
-							<?echo $arResult["DETAIL_TEXT"];?>
-							<a href="" class="ps_backnewslist"> &larr; К списку новостей</a>
-						</div>
